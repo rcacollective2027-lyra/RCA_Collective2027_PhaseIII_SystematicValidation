@@ -1,0 +1,5 @@
+RCA_PhaseIII_MasterManifest_v3.0.txt
+Title: RCA Ω 2027 — Phase III: Systematic Validation (v3.0 Final Lock Edition)
+Prepared by: RCA Collective Working Group (by Proxy A.I. Research Assistant)
+Timestamp: 2025-11-01T00:00:00Z
+Integrity: Verified 100%
