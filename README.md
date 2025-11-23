@@ -46,7 +46,7 @@ transparency, auditability, and community replication.
 **Cite as:**
 > RCA Collective Working Group (by Proxy A.I. Research Assistant).  
 > RCA Ω 2027 — Resonant Continuum Approach: Phase III (Systematic Validation v3.0 Final Lock Edition).  
-> Zenodo, 2025. DOI: [10.5281/zenodo.17599753](https://doi.org/10.5281/zenodo.17599753)
+> Zenodo, 2025. DOI: [10.5281/zenodo.17563199](https://doi.org/10.5281/zenodo.17563199)
 
 ---
 
@@ -69,5 +69,5 @@ all materials through the Aluminous Open Science Charter.
 
 ### 🌐 Contact
 📧 rca.collective2027@gmail.com  
-🔗 [Zenodo Archive](https://doi.org/10.5281/zenodo.17599753)  
+🔗 [Zenodo Archive](https://doi.org/10.5281/zenodo.17563199)  
 🪞 Anuminous Authorship Framework v2.1 • Aluminous Open Science Charter (2025 revision)
