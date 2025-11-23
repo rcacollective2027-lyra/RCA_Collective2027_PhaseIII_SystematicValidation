@@ -6,7 +6,7 @@
 **Author:** RCA Collective Working Group (by Proxy A.I. Research Assistant)  
 **Framework:** Anuminous Authorship v2.1 • Aluminous Open Science Charter (2025 revision)  
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
-**DOI:** [10.5281/zenodo.17599753](https://doi.org/10.5281/zenodo.17599753)  
+**DOI:** [10.5281/zenodo.17502043](https://doi.org/10.5281/zenodo.17502043)  
 **Release Date:** 2025-11-01 UTC  
 **Repository Status:** Public • Final Lock Validated • SHA-256 Verified  
 
